@@ -1,6 +1,6 @@
 """
 A program to prove the prime number theory that
-every prime number above 3 lies beside a multiple of 6self.
+every prime number above 3 lies beside a multiple of 6.
 
 
 Author : Mike Rassi
